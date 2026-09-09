@@ -1,0 +1,17 @@
+{
+  "name": "genpark-branch-and-bound-integer-programming-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Branch and Bound Mixed-Integer Linear Programming (MILP) Solver with LP Relaxation Pruning",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "operations-research",
+    "integer-programming",
+    "branch-and-bound",
+    "milp"
+  ]
+}
